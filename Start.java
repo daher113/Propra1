@@ -8,7 +8,8 @@ import java.util.Set;
 
 public class Start {
 
-	String test = "GitTest";
+	
+	String test = "test";
 	static Random r = new Random();
 	static LinkedHashMap<int[], String> mars;
 
